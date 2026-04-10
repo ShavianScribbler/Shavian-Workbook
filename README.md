@@ -17,4 +17,4 @@ If you notice any mistakes, please create an issue. If you have any comments, fe
    - add punctuation lesson(s)
    - add sentence writing exercises
    - add long transcription exercises
-   - add writing exercises which including joining letters
+   - add writing exercises which include joining letters
