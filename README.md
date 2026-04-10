@@ -1,33 +1,18 @@
 # Shavian-Workbook
-A workbook for learning to read and write in Shavian.
+An introductory workbook for learning to read and write in Shavian.
 
-## V1 progress
-- [x] preface
-- [x] 𐑴 𐑔 𐑞
-- [x] 𐑨 𐑕 𐑟
-- [x] 𐑓 𐑝 𐑲
-- [x] 𐑑 𐑶 𐑰
-- [x] 𐑖 𐑫 𐑛
-- [x] 𐑠 𐑱 𐑩
-- [x] 𐑮 𐑪 𐑤
-- [x] 𐑢 𐑦 𐑥
-- [x] 𐑘 𐑳 𐑙
-- [x] 𐑣 𐑬 𐑭
-- [x] 𐑐 𐑷 𐑻
-- [x] 𐑚 𐑺 𐑸
-- [x] 𐑯 𐑹 𐑾
-- [x] 𐑒 𐑿 𐑼
-- [x] 𐑜 𐑧 𐑽
-- [x] 𐑗 𐑡 𐑵
-- [x] afterword
-- [ ] test and proofread
+## What is in Version 1.0
+This version just focusses on the basics: incrementally learn the alphabet, writing words containing those letters as you progress. Since it is very introductory, it would probably make sense to add an intermediate/advanced Part 2 to the workbook in a later version. That could include things like longer writing exercises (see Ideas for Version 2.0 below). Also, Shavian letters are intentionally kept separate (i.e. not joined together in the same pen stroke) in this version of the workbook, since in my experience it makes writing more difficult for a newcomer still thinking letter-by-letter and not yet fluent, but this could definitely be added in Part 2.
+
+If you notice any mistakes, please create an issue. If you have any comments, feel free to add them to the Discussions tab.
 
 
-## V2 ideas
+## Ideas for Version 2.0
  - open source the project
- - complete the font
- - add an advanced part 2 to the book
+ - complete the font with joins between letters
+ - add an intermediate/advanced part 2 to the workbook
    - add abbreviations
    - add punctuation lesson(s)
    - add sentence writing exercises
    - add long transcription exercises
+   - add writing exercises which including joining letters
